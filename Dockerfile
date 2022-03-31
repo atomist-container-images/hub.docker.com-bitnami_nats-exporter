@@ -94,6 +94,3 @@ FROM bitnami/nats-exporter:0.9.1-debian-10-r38
 
 # Tags: 0.9.1-debian-10-r37
 FROM bitnami/nats-exporter:0.9.1-debian-10-r37
-
-# Tags: 0.9.1-debian-10-r36
-FROM bitnami/nats-exporter:0.9.1-debian-10-r36
