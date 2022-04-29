@@ -1,12 +1,85 @@
-# Tags: latest, 0.9.1-debian-10-r70, 0.9.1, 0-debian-10, 0
+# Tags: latest, 0.9.2-debian-10-r22, 0.9.2, 0-debian-10, 0
 FROM bitnami/nats-exporter:latest
-FROM bitnami/nats-exporter:0.9.1-debian-10-r70
-FROM bitnami/nats-exporter:0.9.1
+FROM bitnami/nats-exporter:0.9.2-debian-10-r22
+FROM bitnami/nats-exporter:0.9.2
 FROM bitnami/nats-exporter:0-debian-10
 FROM bitnami/nats-exporter:0
 
 # Tags: _
 FROM bitnami/nats-exporter:_
+
+# Tags: 0.9.2-debian-10-r21
+FROM bitnami/nats-exporter:0.9.2-debian-10-r21
+
+# Tags: 0.9.2-debian-10-r20
+FROM bitnami/nats-exporter:0.9.2-debian-10-r20
+
+# Tags: 0.9.2-debian-10-r19
+FROM bitnami/nats-exporter:0.9.2-debian-10-r19
+
+# Tags: 0.9.2-debian-10-r18
+FROM bitnami/nats-exporter:0.9.2-debian-10-r18
+
+# Tags: 0.9.2-debian-10-r17
+FROM bitnami/nats-exporter:0.9.2-debian-10-r17
+
+# Tags: 0.9.2-debian-10-r16
+FROM bitnami/nats-exporter:0.9.2-debian-10-r16
+
+# Tags: 0.9.2-debian-10-r15
+FROM bitnami/nats-exporter:0.9.2-debian-10-r15
+
+# Tags: 0.9.2-debian-10-r14
+FROM bitnami/nats-exporter:0.9.2-debian-10-r14
+
+# Tags: 0.9.2-debian-10-r13
+FROM bitnami/nats-exporter:0.9.2-debian-10-r13
+
+# Tags: 0.9.2-debian-10-r12
+FROM bitnami/nats-exporter:0.9.2-debian-10-r12
+
+# Tags: 0.9.2-debian-10-r11
+FROM bitnami/nats-exporter:0.9.2-debian-10-r11
+
+# Tags: 0.9.2-debian-10-r10
+FROM bitnami/nats-exporter:0.9.2-debian-10-r10
+
+# Tags: 0.9.2-debian-10-r9
+FROM bitnami/nats-exporter:0.9.2-debian-10-r9
+
+# Tags: 0.9.2-debian-10-r8
+FROM bitnami/nats-exporter:0.9.2-debian-10-r8
+
+# Tags: 0.9.2-debian-10-r7
+FROM bitnami/nats-exporter:0.9.2-debian-10-r7
+
+# Tags: 0.9.2-debian-10-r6
+FROM bitnami/nats-exporter:0.9.2-debian-10-r6
+
+# Tags: 0.9.2-debian-10-r5
+FROM bitnami/nats-exporter:0.9.2-debian-10-r5
+
+# Tags: 0.9.2-debian-10-r4
+FROM bitnami/nats-exporter:0.9.2-debian-10-r4
+
+# Tags: 0.9.2-debian-10-r3
+FROM bitnami/nats-exporter:0.9.2-debian-10-r3
+
+# Tags: 0.9.2-debian-10-r2
+FROM bitnami/nats-exporter:0.9.2-debian-10-r2
+
+# Tags: 0.9.2-debian-10-r1
+FROM bitnami/nats-exporter:0.9.2-debian-10-r1
+
+# Tags: 0.9.2-debian-10-r0
+FROM bitnami/nats-exporter:0.9.2-debian-10-r0
+
+# Tags: 0.9.1-debian-10-r71, 0.9.1
+FROM bitnami/nats-exporter:0.9.1-debian-10-r71
+FROM bitnami/nats-exporter:0.9.1
+
+# Tags: 0.9.1-debian-10-r70
+FROM bitnami/nats-exporter:0.9.1-debian-10-r70
 
 # Tags: 0.9.1-debian-10-r69
 FROM bitnami/nats-exporter:0.9.1-debian-10-r69
@@ -22,75 +95,3 @@ FROM bitnami/nats-exporter:0.9.1-debian-10-r66
 
 # Tags: 0.9.1-debian-10-r65
 FROM bitnami/nats-exporter:0.9.1-debian-10-r65
-
-# Tags: 0.9.1-debian-10-r64
-FROM bitnami/nats-exporter:0.9.1-debian-10-r64
-
-# Tags: 0.9.1-debian-10-r63
-FROM bitnami/nats-exporter:0.9.1-debian-10-r63
-
-# Tags: 0.9.1-debian-10-r62
-FROM bitnami/nats-exporter:0.9.1-debian-10-r62
-
-# Tags: 0.9.1-debian-10-r61
-FROM bitnami/nats-exporter:0.9.1-debian-10-r61
-
-# Tags: 0.9.1-debian-10-r60
-FROM bitnami/nats-exporter:0.9.1-debian-10-r60
-
-# Tags: 0.9.1-debian-10-r59
-FROM bitnami/nats-exporter:0.9.1-debian-10-r59
-
-# Tags: 0.9.1-debian-10-r58
-FROM bitnami/nats-exporter:0.9.1-debian-10-r58
-
-# Tags: 0.9.1-debian-10-r57
-FROM bitnami/nats-exporter:0.9.1-debian-10-r57
-
-# Tags: 0.9.1-debian-10-r56
-FROM bitnami/nats-exporter:0.9.1-debian-10-r56
-
-# Tags: 0.9.1-debian-10-r55
-FROM bitnami/nats-exporter:0.9.1-debian-10-r55
-
-# Tags: 0.9.1-debian-10-r54
-FROM bitnami/nats-exporter:0.9.1-debian-10-r54
-
-# Tags: 0.9.1-debian-10-r53
-FROM bitnami/nats-exporter:0.9.1-debian-10-r53
-
-# Tags: 0.9.1-debian-10-r52
-FROM bitnami/nats-exporter:0.9.1-debian-10-r52
-
-# Tags: 0.9.1-debian-10-r51
-FROM bitnami/nats-exporter:0.9.1-debian-10-r51
-
-# Tags: 0.9.1-debian-10-r50
-FROM bitnami/nats-exporter:0.9.1-debian-10-r50
-
-# Tags: 0.9.1-debian-10-r49
-FROM bitnami/nats-exporter:0.9.1-debian-10-r49
-
-# Tags: 0.9.1-debian-10-r48
-FROM bitnami/nats-exporter:0.9.1-debian-10-r48
-
-# Tags: 0.9.1-debian-10-r47
-FROM bitnami/nats-exporter:0.9.1-debian-10-r47
-
-# Tags: 0.9.1-debian-10-r46
-FROM bitnami/nats-exporter:0.9.1-debian-10-r46
-
-# Tags: 0.9.1-debian-10-r45
-FROM bitnami/nats-exporter:0.9.1-debian-10-r45
-
-# Tags: 0.9.1-debian-10-r44
-FROM bitnami/nats-exporter:0.9.1-debian-10-r44
-
-# Tags: 0.9.1-debian-10-r43
-FROM bitnami/nats-exporter:0.9.1-debian-10-r43
-
-# Tags: 0.9.1-debian-10-r42
-FROM bitnami/nats-exporter:0.9.1-debian-10-r42
-
-# Tags: 0.9.1-debian-10-r41
-FROM bitnami/nats-exporter:0.9.1-debian-10-r41
